@@ -150,7 +150,7 @@
                     <div class="footer_top flex-column">
                         <div class="footer_logo">
                             <a href="#">
-                                <img src="img/logo.png" alt="">
+                                <img src="{{asset("assets/>img/logo.png")}}" alt="">
                             </a>
                             <h4>Follow Me</h4>
                         </div>

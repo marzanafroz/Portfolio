@@ -16,7 +16,7 @@
 			<div class="row justify-content-start align-items-center">
 				<div class="col-lg-5">
 					<div class="about_img">
-						<img class="" src="img/about-us.png" alt="">
+						<img class="" src="{{asset("assets/img/about-us.png")}}" alt="">
 					</div>
 				</div>
 
@@ -51,63 +51,63 @@
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo1.png" alt="">
+									<img src="{{asset("assets/img/brands/logo1.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo2.png" alt="">
+									<img src="{{asset("assets/>img/brands/logo2.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo3.png" alt="">
+									<img src="{{asset("assets/img/brands/logo3.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo4.png" alt="">
+									<img src="{{asset("assets/img/brands/logo4.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo5.png" alt="">
+									<img src="{{asset("assets/img/brands/logo5.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo6.png" alt="">
+									<img src="{{asset("assets/img/brands/logo6.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo7.png" alt="">
+									<img src="{{asset("assets/img/brands/logo7.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo8.png" alt="">
+									<img src="{{asset("assets/img/brands/logo8.png")}}" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-brand-item d-table">
 								<div class="d-table-cell text-center">
-									<img src="img/brands/logo9.png" alt="">
+									<img src="{{asset("assets/img/brands/logo9.png")}}" alt="">
 								</div>
 							</div>
 						</div>
@@ -152,28 +152,28 @@
 			<div class="row feature_inner">
 				<div class="col-lg-3 col-md-6">
 					<div class="feature_item">
-						<img src="img/services/s1.png" alt="">
+						<img src="{{asset("assets/img/services/s1.png")}}" alt="">
 						<h4>Wp developing</h4>
 						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="feature_item">
-						<img src="img/services/s2.png" alt="">
+						<img src="{{asset("assets/img/services/s2.png")}}" alt="">
 						<h4>UI/ux design</h4>
 						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="feature_item">
-						<img src="img/services/s3.png" alt="">
+						<img src="{{asset("assets/img/services/s3.png")}}" alt="">
 						<h4>Web design</h4>
 						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="feature_item">
-						<img src="img/services/s4.png" alt="">
+						<img src="{{asset("assets/img/services/s4.png")}}" alt="">
 						<h4>seo optimize</h4>
 						<p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
 					</div>
@@ -209,7 +209,7 @@
 					<div class="col-lg-4 col-md-6 all latest">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p1.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p1.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p1.jpg" class="img-gal">
 									<div class="icon">
@@ -226,7 +226,7 @@
 					<div class="col-lg-4 col-md-6 all popular">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p2.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p2.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p2.jpg" class="img-gal">
 									<div class="icon">
@@ -243,7 +243,7 @@
 					<div class="col-lg-4 col-md-6 all latest">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p3.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p3.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p3.jpg" class="img-gal">
 									<div class="icon">
@@ -260,7 +260,7 @@
 					<div class="col-lg-4 col-md-6 all popular">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p4.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p4.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p4.jpg" class="img-gal">
 									<div class="icon">
@@ -277,7 +277,7 @@
 					<div class="col-lg-4 col-md-6 all following">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p6.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p6.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p5.jpg" class="img-gal">
 									<div class="icon">
@@ -294,7 +294,7 @@
 					<div class="col-lg-4 col-md-6 all upcoming">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p5.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p5.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p6.jpg" class="img-gal">
 									<div class="icon">
@@ -311,7 +311,7 @@
 					<div class="col-lg-4 col-md-6 all upcoming following">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p7.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p7.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p7.jpg" class="img-gal">
 									<div class="icon">
@@ -328,7 +328,7 @@
 					<div class="col-lg-4 col-md-6 all following">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p8.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p8.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p8.jpg" class="img-gal">
 									<div class="icon">
@@ -345,7 +345,7 @@
 					<div class="col-lg-4 col-md-6 all upcoming">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
-								<img class="img-fluid w-100" src="img/portfolio/p9.jpg" alt="">
+								<img class="img-fluid w-100" src="{{asset("assets/img/portfolio/p9.jpg")}}" alt="">
 								<div class="overlay"></div>
 								<a href="img/portfolio/p9.jpg" class="img-gal">
 									<div class="icon">
@@ -382,7 +382,7 @@
         			<div class="testi_item">
         				<div class="row">
         					<div class="col-lg-4">
-        						<img src="img/testimonials/t1.jpg" alt="">
+        						<img src="{{asset("assets/img/testimonials/t1.jpg")}}" alt="">
         					</div>
         					<div class="col-lg-8">
         						<div class="testi_text">
@@ -395,7 +395,7 @@
         			<div class="testi_item">
         				<div class="row">
         					<div class="col-lg-4">
-        						<img src="img/testimonials/t2.jpg" alt="">
+        						<img src="{{asset("assets/img/testimonials/t2.jpg")}}" alt="">
         					</div>
         					<div class="col-lg-8">
         						<div class="testi_text">
@@ -408,7 +408,7 @@
         			<div class="testi_item">
         				<div class="row">
         					<div class="col-lg-4">
-        						<img src="img/testimonials/t1.jpg" alt="">
+        						<img src="{{asset("assets/img/testimonials/t1.jpg")}}" alt="">
         					</div>
         					<div class="col-lg-8">
         						<div class="testi_text">
@@ -421,7 +421,7 @@
         			<div class="testi_item">
         				<div class="row">
         					<div class="col-lg-4">
-        						<img src="img/testimonials/t2.jpg" alt="">
+        						<img src="{{asset("assets/img/testimonials/t2.jpg")}}" alt="">
         					</div>
         					<div class="col-lg-8">
         						<div class="testi_text">
@@ -434,7 +434,7 @@
         			<div class="testi_item">
         				<div class="row">
         					<div class="col-lg-4">
-        						<img src="img/testimonials/t1.jpg" alt="">
+        						<img src="{{asset("assets/img/testimonials/t1.jpg")}}" alt="">
         					</div>
         					<div class="col-lg-8">
         						<div class="testi_text">
@@ -447,7 +447,7 @@
         			<div class="testi_item">
         				<div class="row">
         					<div class="col-lg-4">
-        						<img src="img/testimonials/t2.jpg" alt="">
+        						<img src="{{asset("assets/img/testimonials/t2.jpg")}}" alt="">
         					</div>
         					<div class="col-lg-8">
         						<div class="testi_text">
